@@ -1,5 +1,6 @@
 # InsightBridge 🌉
 
+
 > A vanilla JavaScript data source monitoring dashboard for real-time API endpoint tracking
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=flat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -16,6 +17,13 @@
 - [Learning Objectives](#learning-objectives)
 - [Known Issues](#known-issues)
 - [Future Improvements](#future-improvements)
+
+## 📘 Project Documentation
+
+You can find the full project documentation and sprint planning here:
+
+👉 [InsightBridge – A-Sync Health Monitor Notion Page](https://maroon-court-8d3.notion.site/InsightBridge-A-Sync-Health-Monitor-21021a216aed8014b1f5caa528853be0)
+
 
 ## 🎯 Overview
 
