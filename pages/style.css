@@ -1,0 +1,19 @@
+.background-modal {
+  position: fixed;       /* Sticks to the screen */
+  top: 0;
+  left: 0;
+  width: 100vw;          /* Full width */
+  height: 100vh;         /* Full height */
+  background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black */
+  z-index: 40; 
+  display: none;          /* Put it behind the modal (modal should have z-index > 40) */
+}
+
+    .cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;         /* same as Tailwind's gap-4 */
+  padding-left: 260px;     /* same as Tailwind's p-4 */
+  justify-content: center; /* center all cards horizontally */
+}/* Space between items */
+  
